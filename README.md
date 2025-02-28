@@ -1,1 +1,1 @@
-# SankeyDiagramGenerator
+# BudgetGenerator
