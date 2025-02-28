@@ -1,0 +1,36 @@
+// Revenus : 1715€
+Salaire [1500] Budget
+Argent de poche [215] Budget
+
+// Dépenses : 1087€
+Budget [540] Loyer
+Budget [70] Electricité
+Budget [150] Courses
+Budget [90] Cantine
+Budget [23] Box Wifi
+Budget [7] Abo Spotify
+Budget [7] Abo Téléphone
+Budget [200] Achats non essentiels
+
+// Investissements : 625€
+Budget [282] ETF S&P 500
+Budget [188] ETF Nasdaq 100
+Budget [81] Bitcoin
+Budget [12] Ethereum
+Budget [62] Matelas de sécurité
+
+:Loyer #d94
+:Electricité #d94
+:Courses #137
+:Cantine #137
+:Box Wifi #959
+:Abo Spotify #959
+:Abo Téléphone #959
+:Argent de poche #d44
+:Salaire #d44
+:Budget #d64
+:Matelas de sécurité #197
+:ETF S&P 500 #197
+:ETF Nasdaq 100 #197
+:Bitcoin #197
+:Ethereum #197
